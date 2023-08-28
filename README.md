@@ -1,5 +1,5 @@
 # CV_base
-Works were performed in context of university discipline, no more
+Works were performed in context of university discipline
 
 IU_1: binarization of cup without cv libraries;
 
